@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+.venv/
+venv/
+linux_venv/
+linux_ten_venv/
+build/
+dist/
+bot.log
+state.json
+client_secret*.json
+token*.json

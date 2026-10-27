@@ -1,0 +1,7 @@
+requests
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-genai
+google-auth-httplib2
+rich
