@@ -1,6 +1,6 @@
 {
   "mode": "channel", 
-  "channel_id": "UC1RJJZSO2GYBrPQuiLUp1dA",
+  "channel_id": "YOUR_CHANNEL_ID",
   "video_id": "YOUR_VIDEO_ID_HERE",
   "poll_interval_seconds": 60,
   "max_replies_per_hour": 20,
@@ -8,7 +8,7 @@
 
   "ai": {
     "provider": "Google",
-    "api_key": "AIzaSyDWlA8P3wYdqaNZr7_8_0b4TxiaQinjGs4",
+    "api_key": "YOUR AI API KEY",
     "model": "gemini-2.5-flash",
     "system_prompt": "You are a YouTube content creator replying naturally to comments. Replies must sound human, friendly, short, in German and not like an AI."
   }
